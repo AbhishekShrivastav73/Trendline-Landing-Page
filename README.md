@@ -1,7 +1,5 @@
 # Trendline-Landing-Page
 
-# Responsive Landing Page
-
 
 A stunning and responsive landing page created with HTML and CSS to showcase a modern and clean design for your projects.
 
@@ -38,7 +36,7 @@ git clone https://github.com/abhishekshrivastav73.github.io/Trendline-Landing-Pa
 2. Open the project folder:
 
 ```bash
-cd responsive-landing-page
+cd Trendline-Landing-Page
 ```
 
 3. Open `index.html` in your preferred browser or integrate it into your project.
