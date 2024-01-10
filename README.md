@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Feel free to star ⭐ this repository if you find it helpful!**
 
-Created with ❤️ by [Abhishek Shrivastav](https://your-portfolio-link.com)
-```
+Created with ❤️ by [Abhishek Shrivastav]([https://your-portfolio-link.com](https://github.com/AbhishekShrivastav73))
 
-Make sure to replace `your-username`, `logo.png`, `screenshot.png`, `https://your-username.github.io/responsive-landing-page`, and other placeholder information with your actual details and images. Additionally, update the URLs to reflect your own GitHub repository and portfolio.
+```
+hello
