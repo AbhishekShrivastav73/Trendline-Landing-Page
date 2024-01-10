@@ -2,7 +2,6 @@
 
 # Responsive Landing Page
 
-![Project Logo](logo.png)
 
 A stunning and responsive landing page created with HTML and CSS to showcase a modern and clean design for your projects.
 
