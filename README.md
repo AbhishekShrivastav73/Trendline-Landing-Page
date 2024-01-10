@@ -16,7 +16,7 @@ A stunning and responsive landing page created with HTML and CSS to showcase a m
 
 Visit the live demo: https://abhishekshrivastav73.github.io/Trendline-Landing-Page/
 
-<img width="960" alt="Screenshot 2024-01-05 222638" src="https://github.com/AbhishekShrivastav73/Trendline-Landing-Page/assets/147899930/28cc1877-71aa-44e5-87e3-2d8b87612007">
+<img width="960" alt="Screenshot 2024-01-05 222638" src="https://github.com/AbhishekShrivastav73/">
 
 ## Features
 
