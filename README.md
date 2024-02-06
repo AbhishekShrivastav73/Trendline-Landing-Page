@@ -71,7 +71,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+--
 
 **Feel free to star ⭐ this repository if you find it helpful!**
 
